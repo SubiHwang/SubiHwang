@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <!--
 **SubiHwang/SubiHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,34 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# subihwang
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
-  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+## I'm Subi Hwang 🐣
+---
 
 # Tech Stack
-Language :  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
+---
+Language :  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=blue"/></a>
+  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=61DAFB"/></a>
+  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=C++&logoColor=blue"/></a>
+
+
+Front-End :   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=#F05138"/></a>
   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
-  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
-  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
 
- 
+Back-End : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Spring-black?style=flat-square&logo=Spring&logoColor=blue"/></a>
 
-Front-End :   
-
-Back-End :    
-
-Database :      
-
-Deployment :     
-
-Communication :   
+Database : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=blue"/></a>
   
-</p>
+</br>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-<a href="https://velog.io/@super-hwang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+# About me
+---
+<a href="https://velog.io/@super-hwang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 
