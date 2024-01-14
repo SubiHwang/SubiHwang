@@ -23,6 +23,24 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+
+# Tech Stack
+Language :  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
+  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=blue"/></a>
+  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+
+ 
+
+Front-End :   
+
+Back-End :    
+
+Database :      
+
+Deployment :     
+
+Communication :   
   
 </p>
 
