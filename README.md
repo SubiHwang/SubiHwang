@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## I'm Subi Hwang 🐣
 
 # Tech Stack
----
 Language :  <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=blue"/></a>
   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=#3776AB"/></a>
   <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=C++&logoColor=#00599C"/></a>
@@ -32,6 +31,5 @@ Database : <a href="https://github.com/subihawng/subihwang/edit/main" target="_b
 </br>
 
 # About me
----
 <a href="https://velog.io/@super-hwang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 
