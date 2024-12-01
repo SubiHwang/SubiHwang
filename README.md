@@ -1,24 +1,44 @@
-## I'm Subi Hwang 
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subi%20Hwang&fontSize=90&animation=fadeIn)
 
-# Tech Stack
-Language : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=blue"/></a>
+  ### 👋 Welcome to Subi's GitHub! 
+
+  <br/>
+  
+  ## 💻 Tech Stack 💻
+  
+  ### 🔨 Language
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  
+  ### 🎨 Front-End
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  
+  ### 💾 Back-End
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  
+  ### 📁 Database
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"/>
+  
+  ### ⚙️ DevOps
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  
+  <br/>
+  
+  ## 🌐 Connect with Me
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=Vimeo&link=https://velog.io/@super-hwang)](https://velog.io/@super-hwang)
+  
+  <br/>
+  
+  ![Subi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubiHwang&show_icons=true&theme=radical)
  
-Front-End : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/swift-white?style=flat-square&logo=swift&logoColor=#F05138"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Vue.js-white?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
 
-Back-End : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Springboot-white?style=flat-square&logo=Springboot&logoColor=#6DB33F"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
-
-Database : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/MyBatis-white?style=flat-square&logo=MyBatis&logoColor=black"/></a>
-
-DevOps : <a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazonaws&logoColor=FF9900"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/NCP-white?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-white?style=flat-square&logo=GitHub%20Actions&logoColor=2088FF"/></a>
-<a href="https://github.com/subihawng/subihwang/edit/main" target="_blank"><img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/></a>
-
-</br>
-
-# About me
-<a href="https://velog.io/@super-hwang"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
+</div>
