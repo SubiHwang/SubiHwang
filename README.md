@@ -50,15 +50,5 @@
  <img src="https://github-readme-stats.vercel.app/api?username=SubiHwang&show_icons=true&theme=dracula" alt="GitHub Stats" style="margin-bottom: 20px;"/>
 </div>
 
-<!-- 방문자 수 배지 -->
-<div align="center">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubiHwang&count_bg=%23FF8BC7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</div>
-
-<!-- 이모티콘 푸터 -->
-<div align="center" style="margin-top: 30px;">
- <h3>🌸 Thank you for visiting my GitHub! 🌸</h3>
-</div>
-
 </div>
 </div>
